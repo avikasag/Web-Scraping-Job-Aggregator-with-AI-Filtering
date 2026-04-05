@@ -25,7 +25,7 @@ Automation → Scheduling pipeline runs
 📌 Overview
 
 This approach focuses on building a basic end-to-end pipeline, but with manual intervention at multiple steps.
-
+##
 ⚙️ Steps
 Created an account on Apify
 Searched and selected the most suitable scraper (actor)
@@ -35,12 +35,12 @@ Downloaded results as a .csv file
 Stored the file locally
 Uploaded the dataset to Claude
 Used prompt engineering to filter relevant job roles
-
+##
 🧠 Key Characteristics
 Fully functional ETL pipeline (manual)
 Simple and easy to implement
 No automation
-
+##
 ⚠️ Limitations
 Time-consuming
 Not scalable
